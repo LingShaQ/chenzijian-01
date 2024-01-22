@@ -94,9 +94,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://github.com/LingShaQ
     label: Follow me on Twitter
     display:
       header: true
